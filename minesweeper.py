@@ -9,6 +9,6 @@ pg.init()
 class Grid():
 
 def main():
-    
+    print('just a test')
 if __name__ == '__main__':
-    main)
+    main()
